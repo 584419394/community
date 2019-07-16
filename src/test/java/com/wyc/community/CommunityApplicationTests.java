@@ -11,6 +11,10 @@ public class CommunityApplicationTests {
 
     @Test
     public void contextLoads() {
-    }
 
+    }
+@Test
+    public static void main(String[] args) {
+        System.out.println("输出："+"\u6B66\u5E94\u741B");
+    }
 }
