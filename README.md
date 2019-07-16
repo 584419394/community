@@ -10,6 +10,12 @@
 
 
 ## 工具
+<<<<<<< HEAD
 [Git](https://git-scm.com/downloads)  
 [Visual Paradigm](https://www.visual-paradigm.com)  
 [OkHttp](https://square.github.io/okhttp/)  
+=======
+[Git](https://git-scm.com/downloads)
+[Visual Paradigm](https://www.visual-paradigm.com)
+[OkHttp](https://square.github.io/okhttp/)
+>>>>>>> 61c5afbd8933274b650590b5c5e9ec61024f41bf
