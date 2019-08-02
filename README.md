@@ -13,6 +13,7 @@
 [Git](https://git-scm.com/downloads)  
 [Visual Paradigm](https://www.visual-paradigm.com)  
 [OkHttp](https://square.github.io/okhttp/)  
+[flyway](https://flywaydb.org/getstarted/firststeps/maven)   
 
 
 ## 脚本  
@@ -28,4 +29,7 @@ create table USER
     constraint USER_PK
         primary key (ID)
 );
+```
+```bash
+ mvn flyway:migrate
 ```
